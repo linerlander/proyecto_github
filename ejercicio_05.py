@@ -1,1 +1,1 @@
-print("lander_web")
+print("lander")
